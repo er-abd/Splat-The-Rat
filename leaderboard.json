@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "Ahmad",
+            "score": 0
+        },
+        {
+            "name": "Aban",
+            "score": 40
+        },
+        {
+            "name": "Joe",
+            "score": 70
+        },
+        {
+            "name": "Yusuf",
+            "score": 0
+        },
+        {
+            "name": "Salman",
+            "score": 120
+        },
+        {
+            "name": "Baby",
+            "score": 243
+        }
+    ]
+}
